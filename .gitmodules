@@ -1,3 +1,4 @@
 [submodule "lego"]
 	path = lego
-	url = https://git.torproject.org/project/web/lego.git
+	url = https://github.com/RotationMatrix/lego.git
+	branch = html-redirect-template
